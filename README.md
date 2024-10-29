@@ -1,11 +1,13 @@
 # Pieter Smith
 
 ## About Me
+
 With 23 years of experience in the software industry, I have worn many hats – but right now, I am loving my journey into full-stack web development.
 
 My transition from ERP systems consulting to web development is fueled by a passion for solving complex problems, embracing new technologies, and rekindling my love for computer programming. I am dedicated to cultivating collaboration and empowering others through meaningful support. I firmly believe that "you win as a team and you lose as a team!"
 
 ## Fun Facts
+
 🎫 I have been to hundreds of live music concerts in my life... Everything from Foo Fighters to Andrea Bocelli.  
 🕺 I'm just as bad at kung-fu as I am at New Year’s Eve dance-offs – and I have the scars to prove it!  
 🎤 I once mic'ed up Professor Brian Cox before his guest talk on visiting the then newly-built Large Hadron Collider in Switzerland.  
