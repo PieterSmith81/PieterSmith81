@@ -6,6 +6,8 @@ With 23 years of experience in the software industry, I have worn many hats – 
 
 My transition from ERP systems consulting to web development is fueled by a passion for solving complex problems, embracing new technologies, and rekindling my love for computer programming. I am dedicated to cultivating collaboration and empowering others through meaningful support. I firmly believe that "you win as a team and you lose as a team!"
 
+I am also a huge fan of all things Crypto, DeFi, NFT, Metaverse, Blockchain, and Web3.
+
 ## Interesting Facts
 
 🎫 I have been to hundreds of live music concerts in my life... Everything from Foo Fighters to Andrea Bocelli.  
