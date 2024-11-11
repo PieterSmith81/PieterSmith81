@@ -1,6 +1,6 @@
 # Pieter Smith
 
-#### [Message me on LinkedIn](https://www.linkedin.com/in/pietersmith81)
+### [Message me on LinkedIn](https://www.linkedin.com/in/pietersmith81)
 
 ## About Me
 
