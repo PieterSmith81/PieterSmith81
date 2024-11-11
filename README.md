@@ -1,5 +1,7 @@
 # Pieter Smith
 
+#### [Message me on LinkedIn] https://www.linkedin.com/in/pietersmith81
+
 ## About Me
 
 With 23 years of experience in the software industry, I have worn many hats – but right now, I am loving my journey into full-stack web development.
