@@ -6,7 +6,7 @@
 
 With 23 years of experience in the software industry, I have worn many hats – but right now, I am loving my journey into full-stack web development.
 
-My love for software development and business systems is fueled by a passion for solving complex problems, embracing new technologies, and rekindling my love for computer programming. I am dedicated to cultivating collaboration and empowering others through meaningful support. I firmly believe that "you win as a team and you lose as a team!"
+My affinity for software development and business systems is fueled by a passion for solving complex problems, embracing new technologies, and rekindling my love for computer programming. I am dedicated to cultivating collaboration and empowering others through meaningful support. I firmly believe that "you win as a team and you lose as a team!"
 
 I am also a huge fan of all things Crypto, DeFi, NFT, Metaverse, Blockchain, and Web3.
 
