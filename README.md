@@ -2,6 +2,8 @@
 
 ### [Message me on LinkedIn to connect](https://www.linkedin.com/in/pietersmith81)
 
+### And check out my pinned projects below (including live demo links for most of my projects)
+
 ## About Me
 
 With 23 years of experience in the software industry, I have worn many hats – but right now, I am loving my journey into full-stack web development.
