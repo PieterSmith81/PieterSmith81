@@ -12,6 +12,7 @@ My affinity for software development and business systems is fueled by a passion
 
 I am also a huge fan of all things Crypto, DeFi, NFT, Metaverse, Blockchain, and Web3.
 
+<!-- 
 ## Interesting Facts
 
 🎫 I have been to hundreds of live music concerts in my life... Everything from Foo Fighters to Andrea Bocelli.  
@@ -20,3 +21,4 @@ I am also a huge fan of all things Crypto, DeFi, NFT, Metaverse, Blockchain, and
 🐴 My first job in the UK was as a stud hand, where I regularly groomed a 1.15 million dollar stallion named Ishiguru. Nowadays, I just groom our sausage dog.  
 🎸 I once served an espresso to the famous guitarist Joe Satriani.  
 💾 Many moons ago, I achieved a top 100 ranking in a prestigious national computer Olympiad during my final year of high school in South Africa. I competed using the Turbo Pascal programming language.  
+-->
