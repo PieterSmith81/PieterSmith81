@@ -2,7 +2,7 @@
 
 ### [Message me on LinkedIn to connect](https://www.linkedin.com/in/pietersmith81)
 
-And check out my pinned projects below (including live demo links for most them).
+And check out my pinned projects below (including live demo links to try them out).
 
 ## About Me
 
